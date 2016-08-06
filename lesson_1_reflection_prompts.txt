@@ -1,5 +1,6 @@
 Changes added to fork
 changes to fork not in fork2
+change made to fork2 not in fork
 
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
